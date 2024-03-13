@@ -36,9 +36,9 @@ const Footer = () => {
 
             </div>
 
-            <span className="footer__copy">
+            {/* <span className="footer__copy">
              &#169; Cutetastic. All rights reserved
-            </span>
+            </span> */}
         </div>
     </footer>
   )

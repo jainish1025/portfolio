@@ -1,57 +1,30 @@
-import Work1 from '../../assets/work1.jpg'
-import Work2 from '../../assets/work2.jpg'
-import Work3 from '../../assets/work3.jpg'
-import Work4 from '../../assets/work4.jpg'
-import Work5 from '../../assets/work5.jpg'
+import Work1 from '../../assets/Screenshot 2024-03-10 115552.png'
+import Work2 from '../../assets/2.png'
+import Work3 from '../../assets/3.png'
 
 export const projectsData = [
     {
         id: 1,
         image: Work1,
-        title: 'Web design',
+        title: 'BrandbeetClone',
         category: 'web',
+        url: "https://jainish1025.github.io/-BrandbeetcLONE/"
     },
-
+    
     {
         id: 2,
         image: Work2,
-        title: 'App movil',
+        title: 'CubartoClone',
         category: 'app',
+        url: "https://jainish1025.github.io/CubartoClone/"
     },
-
+    
     {
         id: 3,
         image: Work3,
-        title: 'Brand Design',
+        title: 'AwwadedWebsite',
         category: 'design',
-    },
-
-    {
-        id: 4,
-        image: Work4,
-        title: 'App movil',
-        category: 'app',
-    },
-
-    {
-        id: 5,
-        image: Work5,
-        title: 'Web design',
-        category: 'web',
+        url: "https://jainish1025.github.io/AwwadedWebsite/"
     },
 ];
 
-export const projectsNav = [
-    {
-        name: 'all',
-    },
-    {
-        name: 'web',
-    },
-    {
-        name: 'app',
-    },
-    {
-        name: 'design',
-    },
-];
